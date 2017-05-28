@@ -53,9 +53,9 @@ $ sudo python setup.py install
 
 Getting the software for recognition
 
-$ git clone https://github.com/
+$ git clone https://github.com/BurnedSpaghetti/FinalProject.git
 
-$ cd RECON
+$ cd FinalProject
 
 We need to give the shell in the repository folder
 
